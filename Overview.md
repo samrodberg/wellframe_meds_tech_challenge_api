@@ -22,7 +22,7 @@ Great, now that we know the initial medication list we add a new medication with
 <pre><code>POST http://localhost:8080/medications
 </code></pre>
 <p>And then if we get the medication list we can see that a “Pill E” has been added to our available medications:<br>
-<img src="https://sites.google.com/site/rodsmods13/home/medicine_e_added.PNG?attredirects=0" alt="enter image description here"></p>
+<img src="https://22aca10a-a-62cb3a1a-s-sites.googlegroups.com/site/rodsmods13/home/medicine_e_added.PNG?attachauth=ANoY7crkHj6OrwIHJYh25QjoKd2qjdILSri325jpm8mDnPZ7ygs3QsfFtqbRdvHwVIprQggEzeMUh5v2blgQ_yOoSQvCsGqr3xfShLbHoPTnx1OlKjnJFmVhlxSq8aLTYOU51a_pDjbk9Pk9rTsZ2UQOEKlo1CVmBJ1C3wpPbZWYSc7SwJmZKvFhcyBGspMk0n2naATh5iHM2G-gZIU1OyaPrWKULPJ-M0qzf2nVdshDSAPaAIwTQYo%3D&attredirects=0" alt="enter image description here"></p>
 <p><strong>Task 2: Create a new patient</strong><br>
 We can create a new patient simply using the following REST API call:</p>
 <pre><code>POST http://localhost:8080/profile/patients
